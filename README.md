@@ -13,3 +13,10 @@ Memulai kelas dasar Pemrograman Untuk Menjadi Software Development. (Progress 10
 * Transkrip studi kasus Dasar Pemrograman
 * Ujian Akhir
 
+**17 Juni 2025**<br>
+Belajar kelas dasar Git dengan menggunakan GitHub. (Progress 100 %)
+* Persiapan Belajar
+* Studi kasus pengalaman belajar
+* Git Branches
+* Kolaborasi dengan tim
+* GitHub sebagai portofolio
